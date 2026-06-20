@@ -1,7 +1,7 @@
 # BaiTapTieuLuan_KhoaHocDuLieu
-# Nguyễn Lam Sơn
-# lớp: K58KTPM
-# MSSV: K225480106076
+## Họ và tên: Nguyễn Lam Sơn
+## lớp: K58KTPM
+## MSSV: K225480106076
 ## BÀI TẬP TIỂU LUẬN KẾT THUCS HỌC PHẦN
 Link Youtube: 
 

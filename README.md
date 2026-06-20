@@ -1,6 +1,7 @@
 # BaiTapTieuLuan_KhoaHocDuLieu
 # Nguyễn Lam Sơn_K225480106076
 # MSSV: K225480106076
+## BÀI TẬP TIỂU LUẬN KẾT THUCS HỌC PHẦN
 Link Youtube: 
 
 # 🎬 Phân Tích Dữ Liệu Điện Ảnh & Xây Dựng Hệ Thống Gợi Ý Phim (TMDB 5000)

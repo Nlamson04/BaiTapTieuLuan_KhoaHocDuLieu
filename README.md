@@ -3,7 +3,7 @@
 ## lớp: K58KTPM
 ## MSSV: K225480106076
 ## BÀI TẬP TIỂU LUẬN KẾT THUCS HỌC PHẦN
-Link Youtube: 
+Link Youtube: [ https://www.youtube.com/watch?v=1RaNPiNNFHA ]
 
 # 🎬 Phân Tích Dữ Liệu Điện Ảnh & Xây Dựng Hệ Thống Gợi Ý Phim (TMDB 5000)
 

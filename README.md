@@ -4,6 +4,7 @@
 ## MSSV: K225480106076
 ## BÀI TẬP TIỂU LUẬN KẾT THUCS HỌC PHẦN
 Link Youtube: https://www.youtube.com/watch?v=1RaNPiNNFHA
+Link DemoWeb: https://drive.google.com/drive/folders/1vixJWO0zY-PNQboBw6ylrU10mUKJyDrD?usp=drive_link
 
 # 🎬 Phân Tích Dữ Liệu Điện Ảnh & Xây Dựng Hệ Thống Gợi Ý Phim (TMDB 5000)
 
